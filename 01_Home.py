@@ -28,7 +28,7 @@ with container:
         st.title("Klasifikasi Penyakit Tuberkulosis pada Citra X-Ray Thorax")
         st.subheader("Unggah hasil scan Anda dan dapatkan hasilnya.")
         if st.button("Get Started"):
-            switch_page("Klasifikasi")
+            st.switch_page("pages/02_Klasifikasi.py")
     with home2:
         @st.cache_data
         def load_lottieurl(url: str):
