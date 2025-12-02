@@ -90,3 +90,10 @@ Untuk pengembangan lebih lanjut, disarankan untuk:
 3.  **Reduksi Dimensi Lanjutan:** Mengeksplorasi teknik selain PCA untuk representasi fitur yang lebih optimal.
 4.  **Penambahan Data:** Menambah jumlah atau variasi citra untuk meningkatkan *robustness* model.
 5.  **Eksplorasi Model Lain:** Mencoba algoritma klasifikasi selain SVM.
+
+## Simulasi Website
+![Hasil](assets/1.png)
+![Hasil2](assets/2.png)
+![Hasil3](assets/3.png)
+![Hasil4](assets/4.png)
+![Hasil5](assets/5.png)
