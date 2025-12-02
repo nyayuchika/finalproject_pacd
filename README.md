@@ -2,7 +2,7 @@
 
 Proyek ini bertujuan untuk merancang sistem klasifikasi penyakit Tuberkulosis (TBC) berbasis citra rontgen dada (*Thorax X-Ray*). Sistem ini dikembangkan menggunakan **metode pengolahan citra klasik (non-deep learning)** yang mengutamakan efisiensi komputasi.
 
-🔗 **Link Demo Aplikasi:** [https://kelompok1-pacd-finalproject.streamlit.app/](https://kelompok1-pacd-finalproject.streamlit.app/)
+🔗 **Link Demo Aplikasi:** [[https://kelompok1-pacd-finalproject.streamlit.app/](https://kelompok1-pacd-finalproject.streamlit.app/)](https://finalprojectpacd-kelompok1.streamlit.app/)
 
 ## 👥 Tim Penyusun (Kelompok 1 PACD)
 * **Nyayu Chika Marselina** (25/568182/PPA/07148) -> nyayuchika
