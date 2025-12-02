@@ -158,7 +158,7 @@ tensorflow-intel==2.12.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.2.0
 threadpoolctl==3.5.0
-tifffile==2025.10.16
+tifffile==2024.8.30
 tokenizers==0.13.3
 toml==0.10.2
 toolz==0.12.0
