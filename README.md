@@ -1,7 +1,5 @@
 # Klasifikasi Penyakit Tuberkulosis pada Citra X-Ray Thorax
 
-[![Streamlit App][(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kelompok1-pacd-finalproject.streamlit.app/)](https://finalprojectpacd-kelompok1.streamlit.app/)
-
 Proyek ini bertujuan untuk merancang sistem klasifikasi penyakit Tuberkulosis (TBC) berbasis citra rontgen dada (*Thorax X-Ray*). Sistem ini dikembangkan menggunakan **metode pengolahan citra klasik (non-deep learning)** yang mengutamakan efisiensi komputasi.
 
 🔗 **Link Demo Aplikasi:** [https://kelompok1-pacd-finalproject.streamlit.app/](https://kelompok1-pacd-finalproject.streamlit.app/)
