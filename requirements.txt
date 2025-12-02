@@ -6,3 +6,7 @@ numpy
 scikit-image
 scipy
 joblib
+scikit-learn
+joblib
+numpy
+pandas
