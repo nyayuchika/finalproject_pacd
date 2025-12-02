@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_extras.switch_page_button import switch_page
 import requests
 import json
 from streamlit_lottie import st_lottie
