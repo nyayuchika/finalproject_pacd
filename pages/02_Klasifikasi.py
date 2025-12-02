@@ -35,9 +35,9 @@ st.write("Unggah citra X-Ray paru-paru untuk melakukan prediksi Normal atau TBC.
 @st.cache_resource
 def load_models():
     try:
-        scaler = joblib.load("model/77%/model_scaler.pkl")
-        pca = joblib.load("model/77%/model_pca.pkl")
-        svm = joblib.load("model/77%/model_svm.pkl")
+        scaler = joblib.load("model/77_percent/model_scaler.pkl")
+        pca = joblib.load("model/77_percent/model_pca.pkl")
+        svm = joblib.load("model/77_percent/model_svm.pkl")
         return scaler, pca, svm
     except FileNotFoundError:
         st.error("File model (.pkl) tidak ditemukan!")
